@@ -1,2 +1,2 @@
-# Raft-Consensus-Java
-Raft consensus implementation using Java, tested in framework based on python asyncio (framework from CS425 Distributed Systems @ Raft consensus implementation using Java, tested in framework based on python asyncio (framework from CS425: Distributed Systems @ UIUC)
+# Raft Testing Framework
+This repository contains a framework for simulating communication between raft processes and a collection of test harnesses. Please refer to the MP description for more details.
